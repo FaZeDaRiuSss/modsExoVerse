@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "name": "ExoVerse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minecraft_version": "1.20.1",
   "loader": "Forge",
-  "generated_at": "2026-08-27T21:21:32Z",
+  "generated_at": "2026-08-27T21:25:40Z",
   "total_size": 504457769,
   "file_count": 154,
   "files": {
