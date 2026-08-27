@@ -2,11 +2,16 @@
   "schema": 1,
   "name": "ExoVerse",
   "version": "1.0.0",
+  "source_version": "1.0.0",
   "minecraft_version": "1.20.1",
   "loader": "Forge",
-  "generated_at": "2026-08-27T19:27:53Z",
+  "applied_at": "2026-08-27T19:29:48Z",
   "total_size": 496096155,
   "file_count": 152,
+  "dist": "folder",
+  "archive": null,
+  "archive_size": null,
+  "archive_sha256": null,
   "files": {
     "[1.20.1] SecurityCraft v1.10.2.1.jar": {
       "size": 4995865,
@@ -616,6 +621,5 @@
       "size": 1006518,
       "sha256": "cd1786902a79434f8fd762d741019d9c8a79725fef7e30a89c153c934e1e6a9e"
     }
-  },
-  "dist": "folder"
+  }
 }
