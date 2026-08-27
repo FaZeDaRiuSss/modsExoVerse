@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "name": "ExoVerse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minecraft_version": "1.20.1",
   "loader": "Forge",
-  "generated_at": "2026-08-27T19:27:53Z",
-  "total_size": 496096155,
-  "file_count": 152,
+  "generated_at": "2026-08-27T20:23:22Z",
+  "total_size": 504457769,
+  "file_count": 154,
   "files": {
     "[1.20.1] SecurityCraft v1.10.2.1.jar": {
       "size": 4995865,
@@ -260,6 +260,10 @@
       "size": 688625,
       "sha256": "b627f558ae16352ca4988834c5397d10b9de8541188ff0d99121fff0f5ecf5f7"
     },
+    "fzzy_config-0.7.6+1.20.1+forge.jar": {
+      "size": 2374667,
+      "sha256": "d39cd5d6b23b86468937e306776dc70faba900072c7e359ce9348d8a3c26982e"
+    },
     "geckolib-forge-1.20.1-4.8.4.jar": {
       "size": 1038209,
       "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
@@ -272,9 +276,9 @@
       "size": 1157845,
       "sha256": "5c87ce7e371bc2dbcbcbe1b86bcaa5bc0589480cadf9dd795a7154c99d2b71e9"
     },
-    "guardvillagers-1.20.1-1.6.18.jar": {
-      "size": 204868,
-      "sha256": "6860b6e9d911fd681cf487aa7f7b78373a684bba8cbb24d77baa8a906506b44f"
+    "guardvillagers-1.20.1-1.6.19.jar": {
+      "size": 204767,
+      "sha256": "4c48c88144bcd8d47820baa5ca0d0c1cab8984da4ec2ceeb7ed164c27d1266f3"
     },
     "handcrafted-forge-1.20.1-3.0.6.jar": {
       "size": 7111059,
@@ -488,9 +492,13 @@
       "size": 1316206,
       "sha256": "6df35846b724ff95aa2e54a858ff0b354e0fadd8caa49985e3a34006921cb257"
     },
-    "simplyswords-forge-1.56.0-1.20.1.jar": {
-      "size": 15202091,
-      "sha256": "318f1c362b69db22324cc87307549643b795d7c57b652cebdc9d946f03a21c5f"
+    "simplyswords-forge-neoforge-1.70.2-1.20.1.jar": {
+      "size": 15765792,
+      "sha256": "642e385ffda914f1b9411f0a457fe5fb5e05aa160dc44392dec9a549c2bcec21"
+    },
+    "SimplyTooltips-forge-0.1.5-1.20.1.jar": {
+      "size": 5418741,
+      "sha256": "a50357b4982132522f48afc6fa625c453359390f8180e4c72f6288ecd46dee3c"
     },
     "skinlayers3d-forge-1.11.2-mc1.20.1.jar": {
       "size": 2168901,
@@ -504,9 +512,9 @@
       "size": 1640160,
       "sha256": "b9262af063edc20459262d3e99890f0a3ea68c86eeddebe63c806ce386079a96"
     },
-    "sophisticatedstorage-1.20.1-1.4.85.2124.jar": {
-      "size": 1863079,
-      "sha256": "0ffe6a05daf96b3ffb50392bc43e5ba83ee358f6eb3211d8f2cc850ff3cb9ecc"
+    "sophisticatedstorage-1.20.1-1.4.86.2131.jar": {
+      "size": 1867685,
+      "sha256": "33b4816be111ced6e54e0651fd1fd933eee9feb8e284d371a3246da06c65b6b2"
     },
     "sound-physics-remastered-forge-1.20.1-1.4.10.jar": {
       "size": 203819,

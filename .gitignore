@@ -1,0 +1,7 @@
+# ExoVerse - archivos ignorados 
+ExoVerseUpdater.py
+.exoverse_manifest.json
+.exoverse_staging/
+.exoverse_backup/
+exoverse_updater.log
+*.rar
