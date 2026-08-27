@@ -1,9 +1,7 @@
-# ExoVerse - archivos ignorados 
-ExoVerseUpdater.py
+# ExoVerse - archivos que nunca se suben
 .exoverse_manifest.json
 .exoverse_staging/
 .exoverse_backup/
 exoverse_updater.log
+ExoVerseUpdater.py
 *.rar
-ExoVerseUpdater.py
-ExoVerseUpdater.py

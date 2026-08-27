@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "name": "ExoVerse",
-  "version": "1.0.3",
+  "version": "1.2.0",
   "minecraft_version": "1.20.1",
   "loader": "Forge",
-  "generated_at": "2026-08-27T21:25:40Z",
-  "total_size": 504457769,
-  "file_count": 154,
+  "generated_at": "2026-08-27T22:41:37Z",
+  "total_size": 504752615,
+  "file_count": 155,
   "files": {
     "[1.20.1] SecurityCraft v1.10.2.1.jar": {
       "size": 4995865,
@@ -451,6 +451,10 @@
     "polymorph-forge-0.49.10+1.20.1.jar": {
       "size": 299601,
       "sha256": "cbe63a0a1cb6ae8dbc0e29bb96d149a137cd4e714b295fa49d230994091d157f"
+    },
+    "potionsmaster-1.20.1-47.1.70-0.6.0.jar": {
+      "size": 294846,
+      "sha256": "5d120ba6e1bec21da8a26e6cc94d7b64fc49c34b098b7ba03bf1135a3a31c51f"
     },
     "Prism-1.20.1-forge-1.0.5.jar": {
       "size": 52205,
